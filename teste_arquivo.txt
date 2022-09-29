@@ -1,0 +1,2 @@
+Verificar alterações no texto;
+Concluir verificação e retornar ação.
